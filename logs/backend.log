@@ -1,0 +1,51 @@
+01/10/2021, 12:17:43 - INFO - Server is running on port: 3030 
+01/10/2021, 12:33:31 - INFO - Server is running on port: 3030 
+01/10/2021, 12:34:01 - INFO - Server is running on port: 3030 
+01/10/2021, 12:38:33 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: sDJS28E8-eo6vrabxuQItrNP5vw9IPgC)
+01/10/2021, 12:38:33 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: sDJS28E8-eo6vrabxuQItrNP5vw9IPgC)
+01/10/2021, 12:38:49 - INFO - Server is running on port: 3030 
+01/10/2021, 12:39:17 - INFO - Server is running on port: 3030 
+01/10/2021, 12:39:35 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: 8a8qm7hYlU0sadj2zemccNuwpvkLWY-b)
+01/10/2021, 12:39:35 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: 8a8qm7hYlU0sadj2zemccNuwpvkLWY-b)
+01/10/2021, 12:41:13 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: 8a8qm7hYlU0sadj2zemccNuwpvkLWY-b)
+01/10/2021, 12:41:13 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: 8a8qm7hYlU0sadj2zemccNuwpvkLWY-b)
+01/10/2021, 12:42:22 - INFO - Server is running on port: 3030 
+01/10/2021, 12:42:29 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: ALedOFuEHBwJC0iWH1VmRP00IOWXU7GS)
+01/10/2021, 12:42:29 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: ALedOFuEHBwJC0iWH1VmRP00IOWXU7GS)
+01/10/2021, 12:44:06 - INFO - Server is running on port: 3030 
+01/10/2021, 12:44:42 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: PZnwf066Ao2v4wuNeK9FI2wSMP7pbGrw)
+01/10/2021, 12:44:42 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: PZnwf066Ao2v4wuNeK9FI2wSMP7pbGrw)
+01/10/2021, 12:45:24 - INFO - Server is running on port: 3030 
+01/10/2021, 12:45:51 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: cghEBt1OzuXeUdxrUbUYfb327PGDM7Md)
+01/10/2021, 12:45:51 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: cghEBt1OzuXeUdxrUbUYfb327PGDM7Md)
+01/10/2021, 12:47:30 - INFO - Server is running on port: 3030 
+01/10/2021, 12:47:43 - INFO - Server is running on port: 3030 
+01/10/2021, 12:48:46 - INFO - Server is running on port: 3030 
+01/10/2021, 12:48:51 - ERROR - cannot insert wap | ReferenceError: logger is not defined (sid: V9MtkCYXwF08S-nNzLnXCCXGaP_bVi_S)
+01/10/2021, 12:48:51 - ERROR - Failed to add wap | ReferenceError: logger is not defined (sid: V9MtkCYXwF08S-nNzLnXCCXGaP_bVi_S)
+01/10/2021, 12:56:09 - INFO - Server is running on port: 3030 
+01/10/2021, 12:56:24 - INFO - Server is running on port: 3030 
+01/10/2021, 13:02:31 - INFO - Server is running on port: 3030 
+01/10/2021, 13:02:38 - INFO - Server is running on port: 3030 
+01/10/2021, 13:03:14 - INFO - Server is running on port: 3030 
+01/10/2021, 13:04:32 - INFO - Server is running on port: 3030 
+01/10/2021, 13:05:19 - INFO - Server is running on port: 3030 
+01/10/2021, 13:11:39 - INFO - Server is running on port: 3030 
+01/10/2021, 13:19:29 - INFO - Server is running on port: 3030 
+01/10/2021, 13:25:15 - INFO - Server is running on port: 3030 
+01/10/2021, 13:26:42 - INFO - Server is running on port: 3030 
+01/10/2021, 13:27:00 - INFO - Server is running on port: 3030 
+01/10/2021, 13:27:30 - INFO - Server is running on port: 3030 
+01/10/2021, 14:13:49 - INFO - Server is running on port: 3030 
+01/10/2021, 14:45:29 - INFO - Server is running on port: 3030 
+01/10/2021, 14:51:47 - INFO - Server is running on port: 3030 
+01/10/2021, 14:52:15 - INFO - Server is running on port: 3030 
+01/10/2021, 14:53:20 - INFO - Server is running on port: 3030 
+01/10/2021, 14:55:00 - INFO - Server is running on port: 3030 
+01/10/2021, 14:55:33 - INFO - Server is running on port: 3030 
+01/10/2021, 14:56:20 - INFO - Server is running on port: 3030 
+01/10/2021, 14:58:12 - INFO - Server is running on port: 3030 
+01/10/2021, 14:58:19 - INFO - Server is running on port: 3030 
+01/10/2021, 15:17:38 - INFO - Server is running on port: 3030 
+01/10/2021, 15:18:52 - INFO - Server is running on port: 3030 
+01/10/2021, 15:20:20 - INFO - Server is running on port: 3030 
