@@ -58,3 +58,7 @@
 2.10.2021, 11:05:51 - INFO - Server is running on port: 3030 
 2.10.2021, 12:39:13 - INFO - Server is running on port: 3030 
 2.10.2021, 18:59:36 - INFO - Server is running on port: 3030 
+3.10.2021, 10:12:30 - INFO - Server is running on port: 3030 
+3.10.2021, 12:43:02 - INFO - Server is running on port: 3030 
+4.10.2021, 15:58:17 - ERROR - while finding wap O0QHg | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: QyPw8_Wp0bOiQ15bHylkqIsPOIFHqBu6)
+4.10.2021, 15:58:17 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: QyPw8_Wp0bOiQ15bHylkqIsPOIFHqBu6)
