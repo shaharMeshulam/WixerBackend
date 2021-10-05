@@ -36,8 +36,23 @@ async function updateWap(req, res) {
     }
 }
 
+// POST (add lead)
+async function addLead(req, res) {
+    try {
+        const lead = req.body;
+        const wapId = req.params.id;
+        console.log('req.param', req.params)
+        const addedLead = await wapService.addLead(wapId, lead)
+        res.json(addedLead)
+    } catch (err) {
+        logger.error('Failed to add lead', err)
+        res.status(500).send({ err: 'Failed to add lead' })
+    }
+}
+
 module.exports = {
     getWap,
     addWap,
-    updateWap
+    updateWap,
+    addLead
 }
