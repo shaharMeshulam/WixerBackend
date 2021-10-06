@@ -7,7 +7,8 @@ const ObjectId = require('mongodb').ObjectId
 module.exports = {
     getById,
     update,
-    add
+    add,
+    addLead
 }
 
 async function getById(wapId) {
@@ -39,6 +40,7 @@ async function update(wap) {
 }
 
 async function add(wap) {
+    console.log('Add')
     try {
         // peek only updatable fields!
         const collection = await dbService.getCollection('wap')
@@ -46,6 +48,21 @@ async function add(wap) {
         return wap
     } catch (err) {
         logger.error('cannot insert wap', err)
+        throw err
+    }
+}
+
+async function addLead(wapId, lead) {
+    console.log('Add Lead')
+    try {
+        // peek only updatable fields!
+        const id = ObjectId(wapId)
+        const collection = await dbService.getCollection('wap')
+        console.log('wapId',wapId, 'lead', lead);
+        await collection.updateOne({ _id: id }, { $push: {leads: lead} })
+        return lead;
+    } catch (err) {
+        logger.error(`cannot update wap ${wap._id}`, err)
         throw err
     }
 }

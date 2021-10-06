@@ -49,6 +49,36 @@
 01/10/2021, 15:17:38 - INFO - Server is running on port: 3030 
 01/10/2021, 15:18:52 - INFO - Server is running on port: 3030 
 01/10/2021, 15:20:20 - INFO - Server is running on port: 3030 
+04/10/2021, 15:58:50 - INFO - Server is running on port: 3030 
+04/10/2021, 16:18:45 - INFO - Server is running on port: 3030 
+05/10/2021, 17:45:51 - INFO - Server is running on port: 3030 
+05/10/2021, 17:50:54 - INFO - Server is running on port: 3030 
+05/10/2021, 17:51:21 - INFO - Server is running on port: 3030 
+05/10/2021, 17:53:46 - INFO - Server is running on port: 3030 
+05/10/2021, 17:55:45 - ERROR - Failed to add lead | ReferenceError: wap is not defined (sid: wd_2D8QGgQoqyU0ih3rrDtNg5g1aPoqV)
+05/10/2021, 17:56:52 - INFO - Server is running on port: 3030 
+05/10/2021, 17:56:59 - ERROR - Failed to add lead | ReferenceError: wap is not defined (sid: Qzb4t6AKajJniIpfTnZ6KxTDrTIih5xL)
+05/10/2021, 17:57:13 - INFO - Server is running on port: 3030 
+05/10/2021, 17:57:17 - ERROR - Failed to add lead | ReferenceError: wap is not defined (sid: h3VOn_uJ2DVsWYtP7tlkaLuK-mj7A5x1)
+05/10/2021, 17:58:35 - INFO - Server is running on port: 3030 
+05/10/2021, 17:58:56 - INFO - Server is running on port: 3030 
+05/10/2021, 18:43:55 - INFO - Server is running on port: 3030 
+05/10/2021, 18:45:14 - INFO - Server is running on port: 3030 
+05/10/2021, 18:45:57 - INFO - Server is running on port: 3030 
+05/10/2021, 18:46:11 - INFO - Server is running on port: 3030 
+05/10/2021, 18:47:44 - INFO - Server is running on port: 3030 
+05/10/2021, 18:49:38 - INFO - Server is running on port: 3030 
+05/10/2021, 18:50:17 - INFO - Server is running on port: 3030 
+05/10/2021, 18:56:34 - ERROR - while finding wap null | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - while finding wap null | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - while finding wap null | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - while finding wap null | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:34 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: 1xyCUSvNnHOgvP6ZEagUaMPQNR-jHqKN)
+05/10/2021, 18:56:42 - INFO - Server is running on port: 3030 
+05/10/2021, 18:56:53 - INFO - Server is running on port: 3030 
 2.10.2021, 0:04:45 - INFO - Server is running on port: 3030 
 2.10.2021, 0:05:23 - ERROR - while finding wap O0QHg | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: gyYU3xPyYENvbHkkLwJ2L-kujgEY1dug)
 2.10.2021, 0:05:23 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: gyYU3xPyYENvbHkkLwJ2L-kujgEY1dug)
