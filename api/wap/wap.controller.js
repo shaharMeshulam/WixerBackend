@@ -1,6 +1,17 @@
 const wapService = require('./wap.service');
 const logger = require('../../services/logger.service');
 
+// GET (get all waps)
+async function getWaps(req, res) {
+    try {
+        const waps = await wapService.getWaps()
+        res.send(waps)
+    } catch (err) {
+        logger.error('Failed to get wap', err)
+        res.status(500).send({ err: 'Failed to get wap' })
+    }
+}
+
 // GET (get wap)
 async function getWap(req, res) {
     try {
@@ -54,5 +65,6 @@ module.exports = {
     getWap,
     addWap,
     updateWap,
-    addLead
+    addLead,
+    getWaps
 }

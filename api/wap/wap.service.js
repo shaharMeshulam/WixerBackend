@@ -8,7 +8,19 @@ module.exports = {
     getById,
     update,
     add,
-    addLead
+    addLead,
+    getWaps
+}
+
+async function getWaps() {
+    try {
+        const collection = await dbService.getCollection("wap")
+        const waps = await collection.find({}).toArray()
+        return waps
+    } catch (err) {
+        logger.error(`while finding wap`, err)
+        throw err
+    }
 }
 
 async function getById(wapId) {
@@ -58,8 +70,8 @@ async function addLead(wapId, lead) {
         // peek only updatable fields!
         const id = ObjectId(wapId)
         const collection = await dbService.getCollection('wap')
-        console.log('wapId',wapId, 'lead', lead);
-        await collection.updateOne({ _id: id }, { $push: {leads: lead} })
+        console.log('wapId', wapId, 'lead', lead);
+        await collection.updateOne({ _id: id }, { $push: { leads: lead } })
         return lead;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
