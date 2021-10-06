@@ -95,4 +95,32 @@
 5.10.2021, 9:00:09 - INFO - Server is running on port: 3030 
 6.10.2021, 9:02:06 - INFO - Server is running on port: 3030 
 6.10.2021, 9:07:17 - INFO - Server is running on port: 3030 
-6.10.2021, 16:55:04 - INFO - Server is running on port: 3030 
+06/10/2021, 17:27:34 - INFO - Server is running on port: 3030 
+06/10/2021, 17:27:45 - ERROR - Failed to signup ReferenceError: Cannot access 'user' before initialization (sid: kfoZD3mxxe7GMkJ6pmrXtkcDp4mmXFrS)
+06/10/2021, 17:28:44 - ERROR - Failed to signup ReferenceError: Cannot access 'user' before initialization (sid: kfoZD3mxxe7GMkJ6pmrXtkcDp4mmXFrS)
+06/10/2021, 17:29:56 - INFO - Server is running on port: 3030 
+06/10/2021, 17:30:02 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: T7C950lOjmpzStNl_NOgWxep62mAUDgJ)
+06/10/2021, 17:30:02 - ERROR - Failed to signup fullname, username and password are required! (sid: T7C950lOjmpzStNl_NOgWxep62mAUDgJ)
+06/10/2021, 17:31:30 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: T7C950lOjmpzStNl_NOgWxep62mAUDgJ)
+06/10/2021, 17:31:30 - ERROR - Failed to signup fullname, username and password are required! (sid: T7C950lOjmpzStNl_NOgWxep62mAUDgJ)
+06/10/2021, 17:32:03 - INFO - Server is running on port: 3030 
+06/10/2021, 17:32:51 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:32:51 - ERROR - Failed to signup fullname, username and password are required! (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:35:45 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:35:45 - ERROR - Failed to signup fullname, username and password are required! (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:37:18 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:37:18 - ERROR - Failed to signup fullname, username and password are required! (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:38:08 - DEBUG - auth.service - signup with username: [object Object], fullname: undefined (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:38:08 - ERROR - Failed to signup fullname, username and password are required! (sid: ohxnT79nKOqNnvykwy2oAL-KD2uQDkoT)
+06/10/2021, 17:39:11 - INFO - Server is running on port: 3030 
+06/10/2021, 17:39:17 - DEBUG - auth.service - signup with username: shahar, fullname: Shahar Meshulam (sid: 4CLPcg2P_YDf0zVEFENJbNcCCd8yvayv)
+06/10/2021, 17:39:18 - DEBUG - auth.route - new account created: {"username":"shahar","password":"$2b$10$Z500G9DxC8fvu9rmuBB0H.PB/VGY0xOTbsk86dSI0S9creU7/qEn6","fullname":"Shahar Meshulam","score":100,"_id":"615db516e84b9d740fd89259"} (sid: 4CLPcg2P_YDf0zVEFENJbNcCCd8yvayv)
+06/10/2021, 17:39:18 - DEBUG - auth.service - login with username: shahar (sid: 4CLPcg2P_YDf0zVEFENJbNcCCd8yvayv)
+06/10/2021, 17:39:18 - ERROR - Failed to signup TypeError: userService.getByUsername is not a function (sid: 4CLPcg2P_YDf0zVEFENJbNcCCd8yvayv)
+06/10/2021, 17:40:58 - INFO - Server is running on port: 3030 
+06/10/2021, 17:41:09 - DEBUG - auth.service - signup with username: shahar, fullname: Shahar Meshulam (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+06/10/2021, 17:41:10 - DEBUG - auth.route - new account created: {"username":"shahar","password":"$2b$10$cyqVGz9ti2a2pCvveanUBOjuyyzyPFAhP0TQKHJVglHkOTlY7XVUy","fullname":"Shahar Meshulam","score":100,"_id":"615db5865e7cd586573730da"} (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+06/10/2021, 17:41:10 - DEBUG - auth.service - login with username: shahar (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+06/10/2021, 17:42:44 - DEBUG - auth.service - signup with username: shahar, fullname: Shahar Meshulam (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+06/10/2021, 17:42:44 - DEBUG - auth.route - new account created: {"username":"shahar","password":"$2b$10$zAok6OB57RMudrpyms0HseXMbNSpVICCKus7KDuRe0Y2Yc6nraD0m","fullname":"Shahar Meshulam","score":100,"_id":"615db5e45e7cd586573730db"} (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+06/10/2021, 17:42:44 - DEBUG - auth.service - login with username: shahar (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
