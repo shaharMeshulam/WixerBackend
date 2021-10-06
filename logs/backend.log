@@ -92,32 +92,6 @@
 3.10.2021, 12:43:02 - INFO - Server is running on port: 3030 
 4.10.2021, 15:58:17 - ERROR - while finding wap O0QHg | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: QyPw8_Wp0bOiQ15bHylkqIsPOIFHqBu6)
 4.10.2021, 15:58:17 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: QyPw8_Wp0bOiQ15bHylkqIsPOIFHqBu6)
-5.10.2021, 19:09:31 - INFO - Server is running on port: 3030 
-5.10.2021, 23:24:32 - INFO - Server is running on port: 3030 
-6.10.2021, 0:13:05 - INFO - Server is running on port: 3030 
-6.10.2021, 0:15:30 - INFO - Server is running on port: 3030 
-6.10.2021, 0:22:05 - INFO - Server is running on port: 3030 
-6.10.2021, 0:41:50 - INFO - Server is running on port: 3030 
-6.10.2021, 0:46:11 - INFO - Server is running on port: 3030 
-6.10.2021, 0:47:38 - INFO - Server is running on port: 3030 
-6.10.2021, 0:49:04 - INFO - Server is running on port: 3030 
-6.10.2021, 0:52:26 - INFO - Server is running on port: 3030 
-6.10.2021, 0:54:12 - INFO - Server is running on port: 3030 
-6.10.2021, 0:57:06 - INFO - Server is running on port: 3030 
-6.10.2021, 0:57:12 - INFO - Server is running on port: 3030 
-6.10.2021, 0:57:33 - INFO - Server is running on port: 3030 
-6.10.2021, 0:58:15 - INFO - Server is running on port: 3030 
-6.10.2021, 1:01:31 - INFO - Server is running on port: 3030 
-6.10.2021, 1:02:08 - INFO - Server is running on port: 3030 
-6.10.2021, 1:02:21 - INFO - Server is running on port: 3030 
-6.10.2021, 1:02:23 - INFO - Server is running on port: 3030 
-6.10.2021, 1:02:30 - ERROR - Failed to get wap | ReferenceError: wapId is not defined (sid: LdHobkY0EK45YPisjS6kXNBgJeaIl2Q8)
-6.10.2021, 1:04:02 - INFO - Server is running on port: 3030 
-6.10.2021, 1:04:05 - ERROR - while finding wap | TypeError: dbService.getCollection(...).find is not a function (sid: _GxQfuQhJo_5QTd204spts3iPvFVMrh0)
-6.10.2021, 1:04:05 - ERROR - Failed to get wap | TypeError: dbService.getCollection(...).find is not a function (sid: _GxQfuQhJo_5QTd204spts3iPvFVMrh0)
-6.10.2021, 1:04:47 - INFO - Server is running on port: 3030 
-6.10.2021, 1:07:04 - INFO - Server is running on port: 3030 
-6.10.2021, 1:07:15 - INFO - Server is running on port: 3030 
-6.10.2021, 1:07:29 - INFO - Server is running on port: 3030 
-6.10.2021, 1:08:22 - INFO - Server is running on port: 3030 
-6.10.2021, 1:08:37 - INFO - Server is running on port: 3030 
+5.10.2021, 9:00:09 - INFO - Server is running on port: 3030 
+6.10.2021, 9:02:06 - INFO - Server is running on port: 3030 
+6.10.2021, 9:07:17 - INFO - Server is running on port: 3030 
