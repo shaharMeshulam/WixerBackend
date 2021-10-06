@@ -1,8 +1,8 @@
 
 const dbService = require('../../services/db.service');
 const logger = require('../../services/logger.service');
-
-const ObjectId = require('mongodb').ObjectId
+const asyncLocalStorage = require('../../services/als.service');
+const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
     getById,
@@ -13,12 +13,14 @@ module.exports = {
 }
 
 async function getWaps() {
+    const store = asyncLocalStorage.getStore();
+    const { userId } = store;
     try {
         const collection = await dbService.getCollection("wap")
-        const waps = await collection.find({}).toArray()
+        const waps = await collection.find({ owner: ObjectId(userId) }).toArray()
         return waps
     } catch (err) {
-        logger.error(`while finding wap`, err)
+        logger.error(`error getting waps`, err)
         throw err
     }
 }
@@ -30,7 +32,7 @@ async function getById(wapId) {
 
         return wap
     } catch (err) {
-        logger.error(`while finding wap ${wapId}`, err)
+        logger.error(`error while finding wap ${wapId}`, err)
         throw err
     }
 }
@@ -52,8 +54,10 @@ async function update(wap) {
 }
 
 async function add(wap) {
-    console.log('Add')
     try {
+        const store = asyncLocalStorage.getStore();
+        const { userId } = store;
+        if (userId) wap.owner = ObjectId(userId);
         // peek only updatable fields!
         const collection = await dbService.getCollection('wap')
         await collection.insertOne(wap)
@@ -65,7 +69,6 @@ async function add(wap) {
 }
 
 async function addLead(wapId, lead) {
-    console.log('Add Lead')
     try {
         // peek only updatable fields!
         const id = ObjectId(wapId)
