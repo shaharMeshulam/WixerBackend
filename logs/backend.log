@@ -125,3 +125,4 @@
 06/10/2021, 17:42:44 - DEBUG - auth.route - new account created: {"username":"shahar","password":"$2b$10$zAok6OB57RMudrpyms0HseXMbNSpVICCKus7KDuRe0Y2Yc6nraD0m","fullname":"Shahar Meshulam","score":100,"_id":"615db5e45e7cd586573730db"} (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
 06/10/2021, 17:42:44 - DEBUG - auth.service - login with username: shahar (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
 7.10.2021, 1:50:28 - INFO - Server is running on port: 3030 
+7.10.2021, 12:43:36 - INFO - Server is running on port: 3030 
