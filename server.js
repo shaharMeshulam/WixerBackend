@@ -28,14 +28,14 @@ if (process.env.NODE_ENV === 'production') {
 
 const authRoutes = require('./api/auth/auth.routes');
 const wapRoutes = require('./api/wap/wap.routes');
-const {connectSockets} = require('./services/socket.service');
+const { connectSockets } = require('./services/socket.service');
 
 // routes
 const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware');
 app.all('*', setupAsyncLocalStorage);
 
 app.use('/api/auth', authRoutes);
-app.use('/api/wap',wapRoutes);
+app.use('/api/wap', wapRoutes);
 connectSockets(http, session);
 
 // Make every server-side-route to match the index.html

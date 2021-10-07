@@ -124,3 +124,20 @@
 06/10/2021, 17:42:44 - DEBUG - auth.service - signup with username: shahar, fullname: Shahar Meshulam (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
 06/10/2021, 17:42:44 - DEBUG - auth.route - new account created: {"username":"shahar","password":"$2b$10$zAok6OB57RMudrpyms0HseXMbNSpVICCKus7KDuRe0Y2Yc6nraD0m","fullname":"Shahar Meshulam","score":100,"_id":"615db5e45e7cd586573730db"} (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
 06/10/2021, 17:42:44 - DEBUG - auth.service - login with username: shahar (sid: RpheGE-hMbjSiJAkDDE-8puWHc6quQwl)
+07/10/2021, 12:41:24 - INFO - Server is running on port: 3030 
+07/10/2021, 12:43:07 - DEBUG - auth.service - login with username: shahar (sid: B5IWrjQ9aYblYYev3NUvEqTg6c6JvG-I)
+07/10/2021, 13:00:07 - INFO - Server is running on port: 3030 
+07/10/2021, 13:01:14 - INFO - Server is running on port: 3030 
+07/10/2021, 13:07:16 - INFO - Server is running on port: 3030 
+07/10/2021, 13:07:22 - INFO - Server is running on port: 3030 
+07/10/2021, 13:10:04 - INFO - Server is running on port: 3030 
+07/10/2021, 13:11:34 - INFO - Server is running on port: 3030 
+07/10/2021, 13:12:22 - INFO - Server is running on port: 3030 
+07/10/2021, 13:19:16 - INFO - Server is running on port: 3030 
+07/10/2021, 13:19:33 - DEBUG - auth.service - login with username: shahar (sid: PQWQdXrKC8xgaf2LCcdpj96YpDXEzhKN)
+07/10/2021, 13:20:34 - DEBUG - auth.service - login with username: shahar (sid: PQWQdXrKC8xgaf2LCcdpj96YpDXEzhKN)
+07/10/2021, 13:33:57 - INFO - Server is running on port: 3030 
+07/10/2021, 13:35:04 - INFO - Server is running on port: 3030 
+07/10/2021, 13:35:16 - DEBUG - auth.service - login with username: shahar (sid: ZR3p-N0I7nXsVd4Nnh6WKUZgSFoE4cXX)
+07/10/2021, 13:36:46 - INFO - Server is running on port: 3030 
+07/10/2021, 13:36:53 - DEBUG - auth.service - login with username: shahar (sid: RkTzyFaptre2mSKLbRGS6pK-chFXp-L3)

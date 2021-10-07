@@ -2,6 +2,7 @@
 const dbService = require('../../services/db.service');
 const logger = require('../../services/logger.service');
 const asyncLocalStorage = require('../../services/als.service');
+const screenshootService = require('../../services/screenshoot.service');
 const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
@@ -46,6 +47,7 @@ async function update(wap) {
         }
         const collection = await dbService.getCollection('wap')
         await collection.updateOne({ _id: wapToSave._id }, { $set: wapToSave })
+        await screenshootService.takeScreenShoot(wap._id);
         return wapToSave;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
@@ -61,6 +63,7 @@ async function add(wap) {
         // peek only updatable fields!
         const collection = await dbService.getCollection('wap')
         await collection.insertOne(wap)
+        await screenshootService.takeScreenShoot(wap._id);
         return wap
     } catch (err) {
         logger.error('cannot insert wap', err)
