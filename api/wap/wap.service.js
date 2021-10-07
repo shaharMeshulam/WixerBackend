@@ -63,7 +63,7 @@ async function add(wap) {
         // peek only updatable fields!
         const collection = await dbService.getCollection('wap')
         await collection.insertOne(wap)
-        await screenshootService.takeScreenShoot(wap._id);
+        // await screenshootService.takeScreenShoot(wap._id);
         return wap
     } catch (err) {
         logger.error('cannot insert wap', err)
