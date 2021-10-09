@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e7c5d14.chunk.css",
-    "main.js": "/static/js/main.44ae5ca3.chunk.js",
-    "main.js.map": "/static/js/main.44ae5ca3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ebe4a82a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ebe4a82a.js.map",
-    "static/js/2.70a9beea.chunk.js": "/static/js/2.70a9beea.chunk.js",
-    "static/js/2.70a9beea.chunk.js.map": "/static/js/2.70a9beea.chunk.js.map",
-    "static/js/3.a56d8773.chunk.js": "/static/js/3.a56d8773.chunk.js",
-    "static/js/3.a56d8773.chunk.js.map": "/static/js/3.a56d8773.chunk.js.map",
+    "main.css": "/static/css/main.c75ffdc8.chunk.css",
+    "main.js": "/static/js/main.67ed7914.chunk.js",
+    "main.js.map": "/static/js/main.67ed7914.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.601823d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.601823d2.js.map",
+    "static/js/2.b82fafae.chunk.js": "/static/js/2.b82fafae.chunk.js",
+    "static/js/2.b82fafae.chunk.js.map": "/static/js/2.b82fafae.chunk.js.map",
+    "static/js/3.df196b7b.chunk.js": "/static/js/3.df196b7b.chunk.js",
+    "static/js/3.df196b7b.chunk.js.map": "/static/js/3.df196b7b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9e7c5d14.chunk.css.map": "/static/css/main.9e7c5d14.chunk.css.map",
-    "static/js/2.70a9beea.chunk.js.LICENSE.txt": "/static/js/2.70a9beea.chunk.js.LICENSE.txt",
+    "static/css/main.c75ffdc8.chunk.css.map": "/static/css/main.c75ffdc8.chunk.css.map",
+    "static/js/2.b82fafae.chunk.js.LICENSE.txt": "/static/js/2.b82fafae.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/site-avatar.e5311a02.jpg",
     "static/media/build.a9841e2a.gif": "/static/media/build.a9841e2a.gif",
+    "static/media/dental.d2ec2bd3.jpg": "/static/media/dental.d2ec2bd3.jpg",
     "static/media/dentalFooter.17351393.jpg": "/static/media/dentalFooter.17351393.jpg",
     "static/media/dentalFooterUpper.abee6d7b.jpg": "/static/media/dentalFooterUpper.abee6d7b.jpg",
     "static/media/dentalFotterCallNow.67a2086b.jpg": "/static/media/dentalFotterCallNow.67a2086b.jpg",
@@ -45,9 +46,9 @@
     "static/media/testimonials.0cd0f196.jpg": "/static/media/testimonials.0cd0f196.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebe4a82a.js",
-    "static/js/2.70a9beea.chunk.js",
-    "static/css/main.9e7c5d14.chunk.css",
-    "static/js/main.44ae5ca3.chunk.js"
+    "static/js/runtime-main.601823d2.js",
+    "static/js/2.b82fafae.chunk.js",
+    "static/css/main.c75ffdc8.chunk.css",
+    "static/js/main.67ed7914.chunk.js"
   ]
 }

@@ -18,7 +18,11 @@ async function getWaps() {
     const { userId } = store;
     try {
         const collection = await dbService.getCollection("wap")
-        const waps = await collection.find({ owner: ObjectId(userId) }).toArray()
+        let waps = await collection.find({ owner: ObjectId(userId) }).toArray()
+        waps = waps.map(wap => {
+            wap.createdAt = wap._id.getTimestamp()
+            return wap
+        })
         return waps
     } catch (err) {
         logger.error(`error getting waps`, err)
@@ -38,7 +42,7 @@ async function getById(wapId) {
     }
 }
 
-async function update(wap) {
+async function update(wap, createScreenShot = true) {
     try {
         // peek only updatable fields!
         const wapToSave = {
@@ -47,7 +51,9 @@ async function update(wap) {
         }
         const collection = await dbService.getCollection('wap')
         await collection.updateOne({ _id: wapToSave._id }, { $set: wapToSave })
-        await screenshootService.takeScreenShoot(wap._id);
+        if (createScreenShot) {
+            await screenshootService.takeScreenShoot(wap._id);
+        }
         return wapToSave;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
@@ -63,7 +69,6 @@ async function add(wap) {
         // peek only updatable fields!
         const collection = await dbService.getCollection('wap')
         await collection.insertOne(wap)
-        await screenshootService.takeScreenShoot(wap._id);
         return wap
     } catch (err) {
         logger.error('cannot insert wap', err)
