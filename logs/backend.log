@@ -536,3 +536,11 @@
 9.10.2021, 18:56:29 - DEBUG - auth.service - login with username: berco (sid: 3lqKKVHnQcKpk_XUyt9Zu1OvoaE9fiy4)
 9.10.2021, 19:01:38 - INFO - Server is running on port: 3030 
 9.10.2021, 19:02:13 - DEBUG - auth.service - login with username: berco (sid: 0BrO3X0J_SQ4vtJIqznezHQ5N1NSOxVa)
+9.10.2021, 19:19:30 - INFO - Server is running on port: 3030 
+9.10.2021, 19:21:43 - DEBUG - auth.service - login with username: berco (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
+9.10.2021, 19:22:09 - ERROR - cannot update wap 6161a349191a2dc40cfe68b8 | Error: ENOENT: no such file or directory, open 'C:\Users\rinapharm\‎Google Drive (berc.david@gmail.com)‎\קודינג אקדמי\CaJul21-ExcerciseSubmissions\Class1\David_Bercovici\sprint4-wix\SPRINT-WIXER-END-TO-END\WixerBackend\public\websites-screenshots\6161a349191a2dc40cfe68b8.jpg' (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
+9.10.2021, 19:22:09 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\Users\rinapharm\‎Google Drive (berc.david@gmail.com)‎\קודינג אקדמי\CaJul21-ExcerciseSubmissions\Class1\David_Bercovici\sprint4-wix\SPRINT-WIXER-END-TO-END\WixerBackend\public\websites-screenshots\6161a349191a2dc40cfe68b8.jpg' (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
+9.10.2021, 19:22:09 - ERROR - cannot update wap 6161a349191a2dc40cfe68b8 | Error: ENOENT: no such file or directory, open 'C:\Users\rinapharm\‎Google Drive (berc.david@gmail.com)‎\קודינג אקדמי\CaJul21-ExcerciseSubmissions\Class1\David_Bercovici\sprint4-wix\SPRINT-WIXER-END-TO-END\WixerBackend\public\websites-screenshots\6161a349191a2dc40cfe68b8.jpg' (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
+9.10.2021, 19:22:09 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\Users\rinapharm\‎Google Drive (berc.david@gmail.com)‎\קודינג אקדמי\CaJul21-ExcerciseSubmissions\Class1\David_Bercovici\sprint4-wix\SPRINT-WIXER-END-TO-END\WixerBackend\public\websites-screenshots\6161a349191a2dc40cfe68b8.jpg' (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
+9.10.2021, 19:41:22 - INFO - Server is running on port: 3030 
+9.10.2021, 19:41:30 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
