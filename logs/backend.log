@@ -544,3 +544,149 @@
 9.10.2021, 19:22:09 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\Users\rinapharm\‎Google Drive (berc.david@gmail.com)‎\קודינג אקדמי\CaJul21-ExcerciseSubmissions\Class1\David_Bercovici\sprint4-wix\SPRINT-WIXER-END-TO-END\WixerBackend\public\websites-screenshots\6161a349191a2dc40cfe68b8.jpg' (sid: OssIf5M5VQDvrqYz0AyWD4NYLmaVI1eM)
 9.10.2021, 19:41:22 - INFO - Server is running on port: 3030 
 9.10.2021, 19:41:30 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:36 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:45 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:49 - ERROR - cannot update wap 6161db031ca6b77ed6cfe7b6 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:49 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:49 - ERROR - cannot update wap 6161db031ca6b77ed6cfe7b6 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:10:49 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:12:37 - ERROR - cannot update wap 6161db031ca6b77ed6cfe7b6 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:12:37 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:12:37 - ERROR - cannot update wap 6161db031ca6b77ed6cfe7b6 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:12:37 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:22:12 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:24:03 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:43:03 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:43:50 - ERROR - cannot update wap 6161e2be1ca6b77ed6cfe7b8 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:43:50 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:43:51 - ERROR - cannot update wap 6161e2be1ca6b77ed6cfe7b8 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:43:51 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:47:06 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:50:34 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:05 - ERROR - cannot update wap 6161e4741ca6b77ed6cfe7bb | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:05 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:05 - ERROR - cannot update wap 6161e4741ca6b77ed6cfe7bb | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:05 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:34 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:34 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:34 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:34 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:50 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:50 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:51 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:51 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:51 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:51 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:52 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:51:52 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:11 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:11 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:11 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:11 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:27 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:27 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:28 - ERROR - cannot update wap 6161e4921ca6b77ed6cfe7bd | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:52:28 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:54:53 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:54:53 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:54:54 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:54:54 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:14 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:14 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:14 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:14 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:14 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:15 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:15 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:16 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:16 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:38 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:38 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:41 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:55:41 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:05 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:05 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:05 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:06 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:06 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:06 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:06 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:07 - ERROR - cannot update wap 6161e5581ca6b77ed6cfe7be | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:07 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:15 - ERROR - cannot update wap 6161e5aa1ca6b77ed6cfe7bf | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:15 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:18 - ERROR - cannot update wap 6161e5aa1ca6b77ed6cfe7bf | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 21:56:18 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:25:11 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:25:59 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:26:08 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:27:40 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:28:32 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 22:29:23 - DEBUG - auth.service - login with username: berco (sid: exgf9if6BiOSQr4ZpoRmYWyrMEeWb6QU)
+9.10.2021, 23:50:21 - INFO - Server is running on port: 3030 
+9.10.2021, 23:50:52 - DEBUG - auth.service - login with username: berco (sid: OHHG63V58y85y3vgjvROmd10fGlTwHVb)
+9.10.2021, 23:55:24 - INFO - Server is running on port: 3030 
+9.10.2021, 23:55:47 - DEBUG - auth.service - login with username: berco (sid: bSQn_ZatQd7sYTbCJF6Nypz-NRi6q3VD)
+9.10.2021, 23:57:32 - INFO - Server is running on port: 3030 
+9.10.2021, 23:57:44 - DEBUG - auth.service - login with username: berco (sid: OcCTq-06JuHEIGuWEQlnu8ZZeJQBy0XG)
+9.10.2021, 23:57:48 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:57:48 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:57:56 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: rZNngDtFaHCo5q5Br-zdN8Izg_fKJ6Mv)
+9.10.2021, 23:57:56 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: rZNngDtFaHCo5q5Br-zdN8Izg_fKJ6Mv)
+9.10.2021, 23:58:02 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:02 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:03 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:03 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:04 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:04 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:04 - ERROR - cannot update wap 616201dcfc4d662c818e44b7 | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:58:04 - ERROR - Failed to update wap | Error: Protocol error (Target.activateTarget): Session closed. Most likely the page has been closed. (sid: UllyfkBtEEBHEFFr6Ba332cQHepKEWEw)
+9.10.2021, 23:59:12 - INFO - Server is running on port: 3030 
+9.10.2021, 23:59:24 - DEBUG - auth.service - login with username: berco (sid: 6pgHxlK8gqCS8dBshFjW6YiLAMnjeQLR)
+10.10.2021, 0:00:08 - ERROR - cannot update wap 616202b49b099acf7b7ad415 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: 6pgHxlK8gqCS8dBshFjW6YiLAMnjeQLR)
+10.10.2021, 0:00:08 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: 6pgHxlK8gqCS8dBshFjW6YiLAMnjeQLR)
+10.10.2021, 0:28:22 - INFO - Server is running on port: 3030 
+10.10.2021, 0:28:55 - INFO - Server is running on port: 3030 
+10.10.2021, 0:34:36 - INFO - Server is running on port: 3030 
+10.10.2021, 0:35:23 - INFO - Server is running on port: 3030 
+10.10.2021, 0:39:27 - INFO - Server is running on port: 3030 
+10.10.2021, 0:52:01 - INFO - Server is running on port: 3030 
+10.10.2021, 0:52:11 - INFO - Server is running on port: 3030 
+10.10.2021, 0:53:25 - INFO - Server is running on port: 3030 
+10.10.2021, 0:54:21 - INFO - Server is running on port: 3030 
+10.10.2021, 0:54:37 - INFO - Server is running on port: 3030 
+10.10.2021, 1:18:32 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: Y23MBDz2LXiOE7JjWKprK_fpCzd4j1z_)
+10.10.2021, 1:21:08 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: Dw3fjInjS8QfSh6ooVS17z7orc31zzLE)
+10.10.2021, 1:25:55 - INFO - Server is running on port: 3030 
+10.10.2021, 1:26:03 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: iDPzDzRlookhI_xPSEiCfmZTlJJfEQE-)
+10.10.2021, 1:27:06 - INFO - Server is running on port: 3030 
+10.10.2021, 1:27:09 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: L0Gi3L4ds9a4b8FdfCZNg47jbl907wL2)
+10.10.2021, 1:27:15 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: KYosQ_5aaX43wUyKDIDifjB3BcXdEdF3)
+10.10.2021, 1:27:30 - INFO - Server is running on port: 3030 
+10.10.2021, 1:27:34 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: MgDAKRYPWiyeAaVXcClWOSVu6yilY8KZ)
+10.10.2021, 1:27:51 - INFO - Server is running on port: 3030 
+10.10.2021, 1:27:55 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: j7MGajJ0BRi3SSAUKSj3NYcvO3C7V0O_)
+10.10.2021, 1:28:23 - INFO - Server is running on port: 3030 
+10.10.2021, 1:28:28 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: oL1g4xe8I_pPnz9UEmtt6YbLuk-nXfUw)
+10.10.2021, 1:32:11 - INFO - Server is running on port: 3030 
+10.10.2021, 1:32:17 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: tv5hkHCn6bXqJ8aABmJaE5JmHtPXpmHs)
+10.10.2021, 1:33:27 - INFO - Server is running on port: 3030 
+10.10.2021, 1:34:13 - INFO - Server is running on port: 3030 
+10.10.2021, 1:35:19 - INFO - Server is running on port: 3030 
+10.10.2021, 1:36:45 - INFO - Server is running on port: 3030 
+10.10.2021, 1:37:38 - INFO - Server is running on port: 3030 
+10.10.2021, 1:38:41 - INFO - Server is running on port: 3030 
+10.10.2021, 1:39:26 - INFO - Server is running on port: 3030 
+10.10.2021, 1:39:48 - INFO - Server is running on port: 3030 
+10.10.2021, 1:41:09 - INFO - Server is running on port: 3030 
+10.10.2021, 1:41:18 - ERROR - Failed to get img | TypeError: path argument is required to res.sendFile (sid: W90F8kdCwpIatfnL1efjtrVDraavRj0v)
+10.10.2021, 1:41:31 - INFO - Server is running on port: 3030 
+10.10.2021, 1:41:36 - ERROR - Failed to get img | TypeError: path argument is required to res.sendFile (sid: Da2w8obRzPcaTVJIusfVluuf0GuKt22K)
+10.10.2021, 1:41:54 - INFO - Server is running on port: 3030 
+10.10.2021, 1:41:58 - ERROR - Failed to get img | TypeError: path must be absolute or specify root to res.sendFile (sid: 5RuWpVcONrAHsEJtBVwJMbwhezXuMro1)
+10.10.2021, 1:42:58 - INFO - Server is running on port: 3030 
+10.10.2021, 1:44:10 - INFO - Server is running on port: 3030 
+10.10.2021, 1:46:13 - INFO - Server is running on port: 3030 
+10.10.2021, 1:52:11 - DEBUG - auth.service - login with username: berco (sid: nYIofKeuMBujtiDLz3Wi-El-Gy-oGIUV)
+10.10.2021, 2:10:39 - INFO - Server is running on port: 3030 
+10.10.2021, 2:10:50 - DEBUG - auth.service - login with username: berco (sid: PYRWuKPakCcMkmBu5gZ0C4ZrsQ8_Dkb6)
