@@ -42,7 +42,7 @@ async function getById(wapId) {
     }
 }
 
-async function update(wap, createScreenShot = true) {
+async function update(wap) {
     try {
         // peek only updatable fields!
         const wapToSave = {
