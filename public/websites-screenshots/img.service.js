@@ -5,7 +5,6 @@ module.exports = {
 }
 
 async function getById(imgId) {
-    console.log('servic');
     try {
         const img =  __dirname + `/${imgId}.jpg`
         return img

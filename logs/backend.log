@@ -706,3 +706,25 @@
 10.10.2021, 3:02:32 - INFO - Server is running on port: 3030 
 10.10.2021, 3:02:43 - INFO - Server is running on port: 3030 
 10.10.2021, 3:13:25 - INFO - Server is running on port: 3030 
+10.10.2021, 3:29:04 - DEBUG - auth.service - login with username: 321 (sid: FCdN8hLOi9ayXBVc45XOjEw5vBixEmaA)
+10.10.2021, 3:30:34 - INFO - Server is running on port: 3030 
+10.10.2021, 3:30:50 - DEBUG - auth.service - login with username: 321 (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:31:09 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:31:09 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:31:10 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:31:10 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:32:35 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:32:35 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:32:35 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:32:35 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\'616225cab58c7727f5b7d785.jpg' (sid: rrZGRlAo3ZZPPpv34n_VmuIe645r402q)
+10.10.2021, 3:34:19 - INFO - Server is running on port: 3030 
+10.10.2021, 3:34:32 - DEBUG - auth.service - login with username: 321 (sid: HFdhpGz2jrBYI7AdxPL-K5xHLmKCUsIv)
+10.10.2021, 3:35:31 - INFO - Server is running on port: 3030 
+10.10.2021, 3:35:45 - DEBUG - auth.service - login with username: 321 (sid: p74gIStXIOfUKmKazrZ_nXZjuUaH7sKS)
+10.10.2021, 3:35:59 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\616225cab58c7727f5b7d785.jpg' (sid: p74gIStXIOfUKmKazrZ_nXZjuUaH7sKS)
+10.10.2021, 3:35:59 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\616225cab58c7727f5b7d785.jpg' (sid: p74gIStXIOfUKmKazrZ_nXZjuUaH7sKS)
+10.10.2021, 3:35:59 - ERROR - cannot update wap 616225cab58c7727f5b7d785 | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\616225cab58c7727f5b7d785.jpg' (sid: p74gIStXIOfUKmKazrZ_nXZjuUaH7sKS)
+10.10.2021, 3:35:59 - ERROR - Failed to update wap | Error: ENOENT: no such file or directory, open 'C:\public\websites-screenshots\616225cab58c7727f5b7d785.jpg' (sid: p74gIStXIOfUKmKazrZ_nXZjuUaH7sKS)
+10.10.2021, 3:37:36 - INFO - Server is running on port: 3030 
+10.10.2021, 3:37:48 - DEBUG - auth.service - login with username: 321 (sid: veJiOIFFMatvdiT1BfjvW9yJQs2jumwT)
+10.10.2021, 3:38:28 - INFO - Server is running on port: 3030 
