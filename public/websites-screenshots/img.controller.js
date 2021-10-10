@@ -1,7 +1,6 @@
 const imgService = require('./img.service');
 const logger = require('../../services/logger.service');
 
-
 // GET (get img)
 async function getImg(req, res) {
     // console.log('imageid', req.query.imgId);
