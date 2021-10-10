@@ -38,8 +38,8 @@ async function addWap(req, res) {
 // PUT (Update wap)
 async function updateWap(req, res) {
     try {
-        const wap = req.body
-        const savedWap = await wapService.update(wap)
+        const { wap, createScreenShot } = req.body
+        const savedWap = await wapService.update(wap, createScreenShot)
         res.send(savedWap)
     } catch (err) {
         logger.error('Failed to update wap', err)

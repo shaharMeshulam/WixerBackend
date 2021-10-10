@@ -18,7 +18,11 @@ async function getWaps() {
     const { userId } = store;
     try {
         const collection = await dbService.getCollection("wap")
-        const waps = await collection.find({ owner: ObjectId(userId) }).toArray()
+        let waps = await collection.find({ owner: ObjectId(userId) }).toArray()
+        waps = waps.map(wap => {
+            wap.createdAt = wap._id.getTimestamp()
+            return wap
+        })
         return waps
     } catch (err) {
         logger.error(`error getting waps`, err)
@@ -38,7 +42,7 @@ async function getById(wapId) {
     }
 }
 
-async function update(wap) {
+async function update(wap, createScreenShot = true) {
     try {
         // peek only updatable fields!
         const wapToSave = {
