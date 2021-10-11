@@ -4,7 +4,6 @@ const { addWap, getWap,getWapByName, updateWap, addLead, getWaps } = require('./
 
 const router = express.Router();
 router.get('/waps', requireAuth, getWaps)
-router.get('/name', getWapByName)
 router.post('/:id', addLead)
 router.post('/', addWap)
 router.get('/', getWap)

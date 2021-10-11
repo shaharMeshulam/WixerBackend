@@ -35,7 +35,6 @@ async function getById(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ '_id': ObjectId(wapId) })
-
         return wap
     } catch (err) {
         logger.error(`error while finding wap ${wapId}`, err)
@@ -47,7 +46,7 @@ async function getByName(wapName) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ 'name': wapName })
-
+        if (!wap) throw new Error
         return wap
     } catch (err) {
         logger.error(`error while finding wap ${wapName}`, err)
