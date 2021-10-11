@@ -49,7 +49,6 @@ async function getByName(wapName) {
         if (!wap) throw new Error
         return wap
     } catch (err) {
-        logger.error(`error while finding wap ${wapName}`, err)
         throw err
     }
 }
