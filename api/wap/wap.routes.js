@@ -1,9 +1,10 @@
 const express = require('express');
 const { requireAuth } = require('../../middlewares/requireAuth.middleware')
-const { addWap, getWap, updateWap, addLead, getWaps } = require('./wap.controller');
+const { addWap, getWap,getWapByName, updateWap, addLead, getWaps } = require('./wap.controller');
 
 const router = express.Router();
 router.get('/waps', requireAuth, getWaps)
+router.get('/name', getWapByName)
 router.post('/:id', addLead)
 router.post('/', addWap)
 router.get('/', getWap)

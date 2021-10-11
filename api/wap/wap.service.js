@@ -7,6 +7,7 @@ const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
     getById,
+    getByName,
     update,
     add,
     addLead,
@@ -42,6 +43,18 @@ async function getById(wapId) {
     }
 }
 
+async function getByName(wapName) {
+    try {
+        const collection = await dbService.getCollection('wap')
+        const wap = await collection.findOne({ 'name': wapName })
+
+        return wap
+    } catch (err) {
+        logger.error(`error while finding wap ${wapName}`, err)
+        throw err
+    }
+}
+
 async function update(wap) {
     try {
         // peek only updatable fields!
@@ -51,6 +64,7 @@ async function update(wap) {
         }
         const collection = await dbService.getCollection('wap')
         await collection.updateOne({ _id: wapToSave._id }, { $set: wapToSave })
+        screenshootService.takeScreenShoot(wap._id)
         return wapToSave;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
