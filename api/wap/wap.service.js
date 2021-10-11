@@ -64,7 +64,7 @@ async function update(wap) {
         }
         const collection = await dbService.getCollection('wap')
         await collection.updateOne({ _id: wapToSave._id }, { $set: wapToSave })
-        screenshootService.takeScreenShoot(wap._id)
+        // screenshootService.takeScreenShoot(wap._id)
         return wapToSave;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
