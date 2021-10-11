@@ -56,7 +56,6 @@ async function getByName(wapName) {
 }
 
 async function update(wap) {
-    console.log('update', wap)
     try {
         // peek only updatable fields!
         const wapToSave = {
