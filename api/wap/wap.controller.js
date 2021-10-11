@@ -23,6 +23,17 @@ async function getWap(req, res) {
     }
 }
 
+// GET (get wap)
+async function getWapByName(req, res) {
+    try {
+        const wap = await wapService.getByName(req.query.wapName)
+        res.send(wap)
+    } catch (err) {
+        logger.error('Failed to get wap', err)
+        res.status(500).send({ err: 'Failed to get wap' })
+    }
+}
+
 // POST (add wap)
 async function addWap(req, res) {
     try {
@@ -38,8 +49,8 @@ async function addWap(req, res) {
 // PUT (Update wap)
 async function updateWap(req, res) {
     try {
-        const { wap, createScreenShot } = req.body
-        const savedWap = await wapService.update(wap, createScreenShot)
+        const wap = req.body
+        const savedWap = await wapService.update(wap)
         res.send(savedWap)
     } catch (err) {
         logger.error('Failed to update wap', err)
@@ -63,6 +74,7 @@ async function addLead(req, res) {
 
 module.exports = {
     getWap,
+    getWapByName,
     addWap,
     updateWap,
     addLead,

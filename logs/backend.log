@@ -765,3 +765,31 @@
 10.10.2021, 11:31:15 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: lKBfs1qvssIpk8RrbqweEac6pWaAzwWS)
 10.10.2021, 11:31:15 - ERROR - cannot update wap 6162a4af223761233d27e199 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: lKBfs1qvssIpk8RrbqweEac6pWaAzwWS)
 10.10.2021, 11:31:15 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: lKBfs1qvssIpk8RrbqweEac6pWaAzwWS)
+11/10/2021, 11:38:03 - INFO - Server is running on port: 3030 
+11/10/2021, 11:39:58 - INFO - Server is running on port: 3030 
+11/10/2021, 11:47:19 - INFO - Server is running on port: 3030 
+11/10/2021, 11:47:45 - DEBUG - auth.service - login with username: shahar (sid: notxdcBECJn1dAgieKxfEy1yHKadJsmg)
+11/10/2021, 11:47:57 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: notxdcBECJn1dAgieKxfEy1yHKadJsmg)
+11/10/2021, 11:47:57 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: notxdcBECJn1dAgieKxfEy1yHKadJsmg)
+11/10/2021, 11:47:59 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: notxdcBECJn1dAgieKxfEy1yHKadJsmg)
+11/10/2021, 11:48:35 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: notxdcBECJn1dAgieKxfEy1yHKadJsmg)
+11/10/2021, 11:48:58 - INFO - Server is running on port: 3030 
+11/10/2021, 11:49:10 - DEBUG - auth.service - login with username: shahar (sid: CNPIM4AcSAWOjsCWLWOCgfJRtLZ639Nq)
+11/10/2021, 11:49:21 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: CNPIM4AcSAWOjsCWLWOCgfJRtLZ639Nq)
+11/10/2021, 11:49:21 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: CNPIM4AcSAWOjsCWLWOCgfJRtLZ639Nq)
+11/10/2021, 11:49:23 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: CNPIM4AcSAWOjsCWLWOCgfJRtLZ639Nq)
+11/10/2021, 11:49:25 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: CNPIM4AcSAWOjsCWLWOCgfJRtLZ639Nq)
+11/10/2021, 11:50:09 - INFO - Server is running on port: 3030 
+11/10/2021, 11:50:20 - DEBUG - auth.service - login with username: shahar (sid: RA_uGzyXHDLd6H9r1BjO9oP-x-vz4Rps)
+11/10/2021, 11:51:18 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: RA_uGzyXHDLd6H9r1BjO9oP-x-vz4Rps)
+11/10/2021, 11:51:18 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: RA_uGzyXHDLd6H9r1BjO9oP-x-vz4Rps)
+11/10/2021, 11:51:22 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: RA_uGzyXHDLd6H9r1BjO9oP-x-vz4Rps)
+11/10/2021, 11:52:06 - INFO - Server is running on port: 3030 
+11/10/2021, 11:52:16 - DEBUG - auth.service - login with username: shahar (sid: a5cyGIEfBtfBkj9OSzc7dzX2N5ozygsj)
+11/10/2021, 11:52:25 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: a5cyGIEfBtfBkj9OSzc7dzX2N5ozygsj)
+11/10/2021, 11:52:25 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: a5cyGIEfBtfBkj9OSzc7dzX2N5ozygsj)
+11/10/2021, 11:52:27 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: a5cyGIEfBtfBkj9OSzc7dzX2N5ozygsj)
+11/10/2021, 11:55:10 - ERROR - Failed to update wap | TypeError: Cannot read property '_id' of undefined (sid: a5cyGIEfBtfBkj9OSzc7dzX2N5ozygsj)
+11/10/2021, 11:55:53 - INFO - Server is running on port: 3030 
+11/10/2021, 11:56:09 - INFO - Server is running on port: 3030 
+11/10/2021, 11:56:31 - DEBUG - auth.service - login with username: shahar (sid: F2icAWSoMjNwyHuN7rRhC0_1ILZ-6H6P)
