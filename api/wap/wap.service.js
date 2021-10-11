@@ -86,13 +86,11 @@ async function add(wap) {
     }
 }
 
-async function addLead(wapId, lead) {
+async function addLead(wapName, lead) {
     try {
         // peek only updatable fields!
-        const id = ObjectId(wapId)
         const collection = await dbService.getCollection('wap')
-        console.log('wapId', wapId, 'lead', lead);
-        await collection.updateOne({ _id: id }, { $push: { leads: lead } })
+        await collection.updateOne({ name: wapName }, { $push: { leads: lead } })
         return lead;
     } catch (err) {
         logger.error(`cannot update wap ${wap._id}`, err)
