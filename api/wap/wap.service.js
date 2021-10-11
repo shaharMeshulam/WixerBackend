@@ -47,7 +47,7 @@ async function getByName(wapName) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ 'name': wapName })
-
+        if (!wap) throw Error
         return wap
     } catch (err) {
         logger.error(`error while finding wap ${wapName}`, err)
