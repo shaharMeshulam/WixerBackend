@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d14faa92.chunk.css",
-    "main.js": "/static/js/main.2af91dae.chunk.js",
-    "main.js.map": "/static/js/main.2af91dae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c988b53.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c988b53.js.map",
-    "static/js/2.87bb14ee.chunk.js": "/static/js/2.87bb14ee.chunk.js",
-    "static/js/2.87bb14ee.chunk.js.map": "/static/js/2.87bb14ee.chunk.js.map",
-    "static/js/3.f277ceb3.chunk.js": "/static/js/3.f277ceb3.chunk.js",
-    "static/js/3.f277ceb3.chunk.js.map": "/static/js/3.f277ceb3.chunk.js.map",
+    "main.css": "/static/css/main.44283a51.chunk.css",
+    "main.js": "/static/js/main.a49fd181.chunk.js",
+    "main.js.map": "/static/js/main.a49fd181.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f981f39d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f981f39d.js.map",
+    "static/js/2.bc05fabf.chunk.js": "/static/js/2.bc05fabf.chunk.js",
+    "static/js/2.bc05fabf.chunk.js.map": "/static/js/2.bc05fabf.chunk.js.map",
+    "static/js/3.3556d354.chunk.js": "/static/js/3.3556d354.chunk.js",
+    "static/js/3.3556d354.chunk.js.map": "/static/js/3.3556d354.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d14faa92.chunk.css.map": "/static/css/main.d14faa92.chunk.css.map",
-    "static/js/2.87bb14ee.chunk.js.LICENSE.txt": "/static/js/2.87bb14ee.chunk.js.LICENSE.txt",
+    "static/css/main.44283a51.chunk.css.map": "/static/css/main.44283a51.chunk.css.map",
+    "static/js/2.bc05fabf.chunk.js.LICENSE.txt": "/static/js/2.bc05fabf.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/site-avatar.e5311a02.jpg",
+    "static/media/Construction.31ef0450.PNG": "/static/media/Construction.31ef0450.PNG",
+    "static/media/Fylo.0d62923f.PNG": "/static/media/Fylo.0d62923f.PNG",
+    "static/media/beautycare.97ae7ac9.jpg": "/static/media/beautycare.97ae7ac9.jpg",
     "static/media/build.a9841e2a.gif": "/static/media/build.a9841e2a.gif",
     "static/media/dental.d2ec2bd3.jpg": "/static/media/dental.d2ec2bd3.jpg",
     "static/media/dentalFooter.17351393.jpg": "/static/media/dentalFooter.17351393.jpg",
@@ -34,6 +37,7 @@
     "static/media/hero1.8b2234d2.jpg": "/static/media/hero1.8b2234d2.jpg",
     "static/media/hero2.12c7259e.jpg": "/static/media/hero2.12c7259e.jpg",
     "static/media/hero3.6fd6304d.jpg": "/static/media/hero3.6fd6304d.jpg",
+    "static/media/jewelry.cfc4926e.jpg": "/static/media/jewelry.cfc4926e.jpg",
     "static/media/mercedes.d07a1e26.jpg": "/static/media/mercedes.d07a1e26.jpg",
     "static/media/nav1.fbe7e515.jpg": "/static/media/nav1.fbe7e515.jpg",
     "static/media/plus.aac03a2c.svg": "/static/media/plus.aac03a2c.svg",
@@ -46,9 +50,9 @@
     "static/media/testimonials.0cd0f196.jpg": "/static/media/testimonials.0cd0f196.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c988b53.js",
-    "static/js/2.87bb14ee.chunk.js",
-    "static/css/main.d14faa92.chunk.css",
-    "static/js/main.2af91dae.chunk.js"
+    "static/js/runtime-main.f981f39d.js",
+    "static/js/2.bc05fabf.chunk.js",
+    "static/css/main.44283a51.chunk.css",
+    "static/js/main.a49fd181.chunk.js"
   ]
 }
