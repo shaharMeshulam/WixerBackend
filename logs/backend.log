@@ -289,3 +289,9 @@
 12.10.2021, 3:25:03 - INFO - Server is running on port: 3030 
 12.10.2021, 3:25:20 - DEBUG - auth.service - login with username: oriori (sid: S0ppwRVUmhHM3eLXO7zbONn0GHkGgPxW)
 12.10.2021, 3:25:45 - INFO - Server is running on port: 3030 
+12.10.2021, 3:34:07 - INFO - Server is running on port: 3030 
+12.10.2021, 3:34:43 - DEBUG - auth.service - login with username: user (sid: CKleGIX3xyE-Ukuo9KnB7PSnWsiChAf9)
+12.10.2021, 3:35:01 - DEBUG - auth.service - login with username: user (sid: CKleGIX3xyE-Ukuo9KnB7PSnWsiChAf9)
+12.10.2021, 8:49:54 - INFO - Server is running on port: 3030 
+12.10.2021, 9:03:51 - DEBUG - auth.service - login with username: demo (sid: P4bGQcZPXCy1H-EQICzqRxmdgpa8PVur)
+12.10.2021, 9:07:07 - INFO - Server is running on port: 3030 
