@@ -55,9 +55,9 @@ async function getByName(wapName) {
 
 async function update({ wap, takeScreenshot }) {
     try {
-        // if (takeScreenshot) {
-        //     wap.screenshot = await screenshootService.takeScreenShoot(wap.name, wap._id)
-        // }
+        if (takeScreenshot) {
+            wap.screenshot = await screenshootService.takeScreenShoot(wap.name, wap._id)
+        }
         // peek only updatable fields!
         const wapToSave = {
             ...wap,
