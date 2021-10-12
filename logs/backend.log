@@ -303,3 +303,7 @@
 12.10.2021, 9:55:57 - INFO - Server is running on port: 3030 
 12.10.2021, 10:14:14 - INFO - Server is running on port: 3030 
 12.10.2021, 10:14:24 - INFO - Server is running on port: 3030 
+12.10.2021, 10:21:35 - DEBUG - auth.service - login with username: berco (sid: iuu8Udv8yY3iRqzkg8KqA_7ebRmxUJed)
+12.10.2021, 10:21:40 - ERROR - Failed to get wap | {} (sid: iuu8Udv8yY3iRqzkg8KqA_7ebRmxUJed)
+12.10.2021, 10:21:43 - ERROR - Failed to get wap | {} (sid: qkiXInxfCe_zOUm-GmgCdhWgXpYI6ABr)
+12.10.2021, 10:36:22 - INFO - Server is running on port: 3030 
