@@ -95,3 +95,197 @@
 11.10.2021, 19:28:51 - DEBUG - auth.service - login with username: user (sid: 8DPcwyCQHA-UL52LygqDec0PZ_EcsX4Q)
 11.10.2021, 19:38:23 - ERROR - error while finding wap david1234 | {} (sid: 8DPcwyCQHA-UL52LygqDec0PZ_EcsX4Q)
 11.10.2021, 19:38:23 - ERROR - Failed to get wap | {} (sid: 8DPcwyCQHA-UL52LygqDec0PZ_EcsX4Q)
+11.10.2021, 21:25:21 - DEBUG - auth.service - login with username: ori (sid: _LsnzZQqJSdiSQd1_xIDiQwdYmkfaC6S)
+11.10.2021, 21:25:22 - INFO - Server is running on port: 3030 
+11.10.2021, 21:32:43 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:33:55 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:11 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:11 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:32 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:32 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:38 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:39 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:44 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:40:44 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:42:18 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:42:48 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:47:40 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:47:41 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:51:06 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:51:06 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:51:12 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:51:13 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:54:20 - DEBUG - auth.service - signup with username: oriori, fullname: asss (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:54:20 - DEBUG - auth.route - new account created: {"username":"oriori","password":"$2b$10$uF9QFyECBRqskpYtZKZl4uLzgLl3jN1Indc4o8Tg8gp33B/BGKg7C","fullname":"asss","_id":"6164885c8947b38deef9191a"} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:54:20 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:54:31 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:54:53 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:55:04 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 21:59:41 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:00:40 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:16:11 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:16:11 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:16:16 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:26:31 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:26:31 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:26:36 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:26:36 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:26:47 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:27:14 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:28:54 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:36:55 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:50:37 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:50:43 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 22:54:15 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:35:32 - ERROR - error while finding wap 000010 | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:35:32 - ERROR - Failed to get wap | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:36:09 - DEBUG - auth.service - login with username: ilai (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:36:09 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:36:24 - DEBUG - auth.service - login with username: ilai (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:37:37 - DEBUG - auth.service - login with username: ialy (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:37:37 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:37:46 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:38:02 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:39:07 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:39:23 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:39:25 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:40:00 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:42:33 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:42:35 - DEBUG - auth.service - login with username: ori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:42:35 - ERROR - Failed to Login Invalid username or password (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:47:39 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:47:44 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+11.10.2021, 23:51:06 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 0:11:40 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:27:00 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:27:22 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:27:47 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:28:05 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:30:09 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:31:52 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:39:23 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:55:40 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 1:55:45 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 2:07:36 - DEBUG - auth.service - login with username: oriori (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 2:07:38 - ERROR - Failed to get wap | {} (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 2:15:43 - DEBUG - auth.service - login with username: demo (sid: FIXJa0QD5zf0vTqvFx79aWxI-l_RKOYp)
+12.10.2021, 2:18:28 - INFO - Server is running on port: 3030 
+12.10.2021, 2:18:56 - INFO - Server is running on port: 3030 
+12.10.2021, 2:18:58 - INFO - Server is running on port: 3030 
+12.10.2021, 2:19:32 - INFO - Server is running on port: 3030 
+12.10.2021, 2:19:51 - INFO - Server is running on port: 3030 
+12.10.2021, 2:19:52 - INFO - Server is running on port: 3030 
+12.10.2021, 2:19:54 - INFO - Server is running on port: 3030 
+12.10.2021, 2:20:17 - INFO - Server is running on port: 3030 
+12.10.2021, 2:20:18 - INFO - Server is running on port: 3030 
+12.10.2021, 2:21:32 - INFO - Server is running on port: 3030 
+12.10.2021, 2:21:56 - INFO - Server is running on port: 3030 
+12.10.2021, 2:22:16 - INFO - Server is running on port: 3030 
+12.10.2021, 2:22:25 - INFO - Server is running on port: 3030 
+12.10.2021, 2:23:00 - INFO - Server is running on port: 3030 
+12.10.2021, 2:23:22 - INFO - Server is running on port: 3030 
+12.10.2021, 2:23:36 - INFO - Server is running on port: 3030 
+12.10.2021, 2:23:38 - INFO - Server is running on port: 3030 
+12.10.2021, 2:23:43 - INFO - Server is running on port: 3030 
+12.10.2021, 2:24:14 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:07 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:11 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:24 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:31 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:42 - INFO - Server is running on port: 3030 
+12.10.2021, 2:25:45 - INFO - Server is running on port: 3030 
+12.10.2021, 2:26:20 - INFO - Server is running on port: 3030 
+12.10.2021, 2:27:09 - INFO - Server is running on port: 3030 
+12.10.2021, 2:27:30 - INFO - Server is running on port: 3030 
+12.10.2021, 2:28:04 - INFO - Server is running on port: 3030 
+12.10.2021, 2:29:10 - INFO - Server is running on port: 3030 
+12.10.2021, 2:29:17 - INFO - Server is running on port: 3030 
+12.10.2021, 2:29:32 - INFO - Server is running on port: 3030 
+12.10.2021, 2:29:35 - INFO - Server is running on port: 3030 
+12.10.2021, 2:29:38 - INFO - Server is running on port: 3030 
+12.10.2021, 2:30:55 - INFO - Server is running on port: 3030 
+12.10.2021, 2:34:57 - INFO - Server is running on port: 3030 
+12.10.2021, 2:35:11 - INFO - Server is running on port: 3030 
+12.10.2021, 2:35:28 - INFO - Server is running on port: 3030 
+12.10.2021, 2:35:37 - INFO - Server is running on port: 3030 
+12.10.2021, 2:35:58 - INFO - Server is running on port: 3030 
+12.10.2021, 2:36:00 - INFO - Server is running on port: 3030 
+12.10.2021, 2:36:13 - INFO - Server is running on port: 3030 
+12.10.2021, 2:37:15 - INFO - Server is running on port: 3030 
+12.10.2021, 2:37:37 - INFO - Server is running on port: 3030 
+12.10.2021, 2:37:40 - INFO - Server is running on port: 3030 
+12.10.2021, 2:41:33 - INFO - Server is running on port: 3030 
+12.10.2021, 2:41:42 - DEBUG - auth.service - login with username: oriori (sid: QD8QuL4puz85Onf0luxX0h3HX7_sQ5gH)
+12.10.2021, 2:42:45 - INFO - Server is running on port: 3030 
+12.10.2021, 2:43:27 - INFO - Server is running on port: 3030 
+12.10.2021, 2:44:04 - DEBUG - auth.service - login with username: oriori (sid: SboLHzCg-9Owg7X4kqtwKIlZLWXuj-ro)
+12.10.2021, 2:45:21 - INFO - Server is running on port: 3030 
+12.10.2021, 2:46:24 - INFO - Server is running on port: 3030 
+12.10.2021, 2:46:49 - DEBUG - auth.service - login with username: oriori (sid: qFgc0y5fKonFbBJRzxaZyeshGeuT3whw)
+12.10.2021, 2:47:52 - INFO - Server is running on port: 3030 
+12.10.2021, 2:47:54 - INFO - Server is running on port: 3030 
+12.10.2021, 2:48:18 - INFO - Server is running on port: 3030 
+12.10.2021, 2:52:33 - ERROR - cannot update wap 6164ccee221c31abecc6f4c9 | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: j-FpAvgxr53mxLZhEA_LiUPqoO37Zg7T)
+12.10.2021, 2:52:33 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: j-FpAvgxr53mxLZhEA_LiUPqoO37Zg7T)
+12.10.2021, 2:55:13 - INFO - Server is running on port: 3030 
+12.10.2021, 2:55:17 - ERROR - cannot update wap 6164ccee221c31abecc6f4c9 | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: fhplE3O_1vwGvyMhTGpuELGyea8ZK4be)
+12.10.2021, 2:55:17 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: fhplE3O_1vwGvyMhTGpuELGyea8ZK4be)
+12.10.2021, 2:55:43 - INFO - Server is running on port: 3030 
+12.10.2021, 2:56:06 - INFO - Server is running on port: 3030 
+12.10.2021, 2:56:33 - ERROR - cannot update wap 6164ccee221c31abecc6f4c9 | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: UVDhYN-PhfcviBEUDS8SwAoZote0kcPa)
+12.10.2021, 2:56:33 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164ccee221c31abecc6f4c9 (sid: UVDhYN-PhfcviBEUDS8SwAoZote0kcPa)
+12.10.2021, 2:58:33 - INFO - Server is running on port: 3030 
+12.10.2021, 2:58:57 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: yM-jleNO86LJo1qMqR3iNeG66C4-5-PH)
+12.10.2021, 2:58:57 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: yM-jleNO86LJo1qMqR3iNeG66C4-5-PH)
+12.10.2021, 2:59:27 - INFO - Server is running on port: 3030 
+12.10.2021, 2:59:29 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: 6HVN6AKW4FcrCmMsQb7KdVaqTRrbbJ1q)
+12.10.2021, 2:59:29 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: 6HVN6AKW4FcrCmMsQb7KdVaqTRrbbJ1q)
+12.10.2021, 2:59:41 - INFO - Server is running on port: 3030 
+12.10.2021, 2:59:44 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: GfgpOWoClvqflOO0_gjMM48FCpTPJ2QW)
+12.10.2021, 2:59:44 - ERROR - Failed to update wap | Error: net::ERR_ABORTED at localhost:3000/6164cfbedcfeb5c1d879c9b3 (sid: GfgpOWoClvqflOO0_gjMM48FCpTPJ2QW)
+12.10.2021, 3:00:15 - INFO - Server is running on port: 3030 
+12.10.2021, 3:00:36 - INFO - Server is running on port: 3030 
+12.10.2021, 3:00:50 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | ReferenceError: window is not defined (sid: g3TBnkN0bIaI413krHP6If9kN8Z_nwSu)
+12.10.2021, 3:00:50 - ERROR - Failed to update wap | ReferenceError: window is not defined (sid: g3TBnkN0bIaI413krHP6If9kN8Z_nwSu)
+12.10.2021, 3:01:07 - INFO - Server is running on port: 3030 
+12.10.2021, 3:01:14 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | ReferenceError: window is not defined (sid: u3CQXtAqZvUXHbfw8Bqg-yMbo7CftDVe)
+12.10.2021, 3:01:14 - ERROR - Failed to update wap | ReferenceError: window is not defined (sid: u3CQXtAqZvUXHbfw8Bqg-yMbo7CftDVe)
+12.10.2021, 3:01:34 - INFO - Server is running on port: 3030 
+12.10.2021, 3:01:37 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | ReferenceError: window is not defined (sid: q1zoyka4XvdzXyxaaSdvFoiC715FFKUn)
+12.10.2021, 3:01:37 - ERROR - Failed to update wap | ReferenceError: window is not defined (sid: q1zoyka4XvdzXyxaaSdvFoiC715FFKUn)
+12.10.2021, 3:02:02 - INFO - Server is running on port: 3030 
+12.10.2021, 3:02:11 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | ReferenceError: window is not defined (sid: 3EXoHo6_UEHgpf2Yz2Ep1SawS3nc8-vH)
+12.10.2021, 3:02:11 - ERROR - Failed to update wap | ReferenceError: window is not defined (sid: 3EXoHo6_UEHgpf2Yz2Ep1SawS3nc8-vH)
+12.10.2021, 3:02:19 - INFO - Server is running on port: 3030 
+12.10.2021, 3:02:30 - INFO - Server is running on port: 3030 
+12.10.2021, 3:02:35 - INFO - Server is running on port: 3030 
+12.10.2021, 3:03:12 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: ZseM8MlUJn0RkCGgPh1H9EcH00o_am3e)
+12.10.2021, 3:03:12 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: ZseM8MlUJn0RkCGgPh1H9EcH00o_am3e)
+12.10.2021, 3:03:29 - ERROR - cannot update wap 6164cfbedcfeb5c1d879c9b3 | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: _t2MDDM1aJteosHnfZ5DGsEdziG0IQaK)
+12.10.2021, 3:03:29 - ERROR - Failed to update wap | TimeoutError: waiting for selector `.section` failed: timeout 30000ms exceeded (sid: _t2MDDM1aJteosHnfZ5DGsEdziG0IQaK)
+12.10.2021, 3:03:42 - INFO - Server is running on port: 3030 
+12.10.2021, 3:05:40 - INFO - Server is running on port: 3030 
+12.10.2021, 3:05:43 - INFO - Server is running on port: 3030 
+12.10.2021, 3:06:41 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:10 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:12 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:25 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:28 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:39 - INFO - Server is running on port: 3030 
+12.10.2021, 3:08:45 - INFO - Server is running on port: 3030 
+12.10.2021, 3:09:31 - INFO - Server is running on port: 3030 
+12.10.2021, 3:10:57 - INFO - Server is running on port: 3030 
+12.10.2021, 3:11:19 - INFO - Server is running on port: 3030 
+12.10.2021, 3:15:22 - INFO - Server is running on port: 3030 
+12.10.2021, 3:16:00 - INFO - Server is running on port: 3030 
+12.10.2021, 3:17:04 - INFO - Server is running on port: 3030 
+12.10.2021, 3:17:07 - INFO - Server is running on port: 3030 
+12.10.2021, 3:17:10 - INFO - Server is running on port: 3030 
+12.10.2021, 3:18:07 - INFO - Server is running on port: 3030 
+12.10.2021, 3:22:30 - DEBUG - auth.service - login with username: oriori (sid: n1D0SaRmOXcj7XJLjaUsVTliinPRfHaw)
+12.10.2021, 3:24:20 - INFO - Server is running on port: 3030 
+12.10.2021, 3:24:26 - INFO - Server is running on port: 3030 
+12.10.2021, 3:24:58 - INFO - Server is running on port: 3030 
+12.10.2021, 3:25:03 - INFO - Server is running on port: 3030 
+12.10.2021, 3:25:20 - DEBUG - auth.service - login with username: oriori (sid: S0ppwRVUmhHM3eLXO7zbONn0GHkGgPxW)
+12.10.2021, 3:25:45 - INFO - Server is running on port: 3030 
