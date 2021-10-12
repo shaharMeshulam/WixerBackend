@@ -16,7 +16,7 @@ async function getWaps(req, res) {
 async function getWap(req, res) {
     try {
         let wap
-        if(req.query.wapId) wap = await wapService.getById(req.query.wapId)
+        if (req.query.wapId) wap = await wapService.getById(req.query.wapId)
         else wap = await wapService.getByName(req.query.wapName)
         res.send(wap)
     } catch (err) {
@@ -40,8 +40,8 @@ async function addWap(req, res) {
 // PUT (Update wap)
 async function updateWap(req, res) {
     try {
-        const wap = req.body
-        const savedWap = await wapService.update(wap)
+        const { wap, takeScreenshot } = req.body
+        const savedWap = await wapService.update({ wap, takeScreenshot })
         res.send(savedWap)
     } catch (err) {
         logger.error('Failed to update wap', err)
