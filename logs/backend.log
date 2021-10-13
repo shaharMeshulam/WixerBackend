@@ -313,3 +313,17 @@
 12.10.2021, 11:05:49 - DEBUG - auth.service - login with username: berco (sid: 1gd1D_rSfGOdguH0_K0hG6k07HBoVt6r)
 12.10.2021, 11:13:41 - INFO - Server is running on port: 3030 
 12.10.2021, 11:13:55 - INFO - Server is running on port: 3030 
+12.10.2021, 12:20:52 - DEBUG - auth.service - login with username: demo (sid: ttDGMkWmjNO1Ocx5puPlbdKJ4uFwiGvC)
+12.10.2021, 12:22:46 - ERROR - Failed to get wap | {} (sid: ttDGMkWmjNO1Ocx5puPlbdKJ4uFwiGvC)
+12.10.2021, 12:23:08 - ERROR - Failed to get wap | {} (sid: ttDGMkWmjNO1Ocx5puPlbdKJ4uFwiGvC)
+13.10.2021, 13:37:57 - INFO - Server is running on port: 3030 
+13.10.2021, 13:51:21 - DEBUG - auth.service - login with username: berco (sid: mKxgKP8gO3vEDtvKczwoo8SoJge3C_5e)
+13.10.2021, 14:47:01 - DEBUG - auth.service - login with username: berco (sid: mKxgKP8gO3vEDtvKczwoo8SoJge3C_5e)
+13.10.2021, 18:53:19 - INFO - Server is running on port: 3030 
+13.10.2021, 18:55:58 - DEBUG - auth.service - login with username: berco (sid: UDjyexQo8kxa2gULEgB0Npto_meKfMgi)
+13.10.2021, 19:22:19 - DEBUG - auth.service - login with username: berco (sid: UDjyexQo8kxa2gULEgB0Npto_meKfMgi)
+13.10.2021, 19:25:06 - DEBUG - auth.service - login with username: berco (sid: UDjyexQo8kxa2gULEgB0Npto_meKfMgi)
+13.10.2021, 20:54:05 - DEBUG - auth.service - login with username: berco (sid: UDjyexQo8kxa2gULEgB0Npto_meKfMgi)
+14.10.2021, 0:06:08 - ERROR - Failed to get wap | {} (sid: UDjyexQo8kxa2gULEgB0Npto_meKfMgi)
+14.10.2021, 0:19:51 - INFO - Server is running on port: 3030 
+14.10.2021, 0:19:58 - INFO - Server is running on port: 3030 
