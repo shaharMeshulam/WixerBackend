@@ -2,7 +2,7 @@
 const dbService = require('../../services/db.service');
 const logger = require('../../services/logger.service');
 const asyncLocalStorage = require('../../services/als.service');
-const screenshootService = require('../../services/screenshoot.service');
+// const screenshootService = require('../../services/screenshoot.service');
 const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
@@ -10,6 +10,7 @@ module.exports = {
     getByName,
     update,
     add,
+    remove,
     addLead,
     getWaps
 }
@@ -55,14 +56,17 @@ async function getByName(wapName) {
 
 async function update({ wap, takeScreenshot }) {
     try {
-        if (takeScreenshot) {
-            wap.screenshot = await screenshootService.takeScreenShoot(wap.name, wap._id)
-        }
+        // if (takeScreenshot) {
+        //     wap.screenshot = await screenshootService.takeScreenShoot(wap.name, wap._id)
+        // }
         // peek only updatable fields!
         const wapToSave = {
             ...wap,
             _id: ObjectId(wap._id), // needed for the returnd obj
         }
+        const store = asyncLocalStorage.getStore();
+        const { userId } = store;
+        if (userId) wapToSave.owner = ObjectId(userId);
         const collection = await dbService.getCollection('wap')
         await collection.updateOne({ _id: wapToSave._id }, { $set: wapToSave })
         return wapToSave;
@@ -86,6 +90,19 @@ async function add(wap) {
         throw err
     }
 }
+
+async function remove(wapId) {
+    try {
+        const collection = await dbService.getCollection('wap');
+        const store = asyncLocalStorage.getStore();
+        const { userId } = store;
+        await collection.deleteOne({ '_id': ObjectId(wapId), 'owner': ObjectId(userId) });
+    } catch (err) {
+        logger.error(`cannot remove wap ${wapId}`, err)
+        throw err
+    }
+}
+
 
 async function addLead(wapName, lead) {
     try {

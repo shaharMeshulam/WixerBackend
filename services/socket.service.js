@@ -29,7 +29,6 @@ function connectSockets(http, session) {
             socket.myName = name
         })
         socket.on('wap change', action => {
-            console.log('wap change', action)
             socket.to(socket.myTopic).emit('wap change', action);
         })
         socket.on('leads update', async (lead) => {

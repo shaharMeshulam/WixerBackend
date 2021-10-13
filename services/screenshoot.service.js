@@ -9,7 +9,7 @@ cloudinary.config({
 
 async function takeScreenShoot(wapName, wapId) {
 
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({ args: ['--no-sandbox'] })
     const page = await browser.newPage()
     await page.setViewport({ width: 1600, height: 200 })
     if (wapName) await page.goto(`https://wixer-app.herokuapp.com/${wapName}`, { waitUntil: 'networkidle2' })

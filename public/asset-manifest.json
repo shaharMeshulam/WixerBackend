@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.44283a51.chunk.css",
-    "main.js": "/static/js/main.a2529238.chunk.js",
-    "main.js.map": "/static/js/main.a2529238.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f981f39d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f981f39d.js.map",
-    "static/js/2.4cfca95d.chunk.js": "/static/js/2.4cfca95d.chunk.js",
-    "static/js/2.4cfca95d.chunk.js.map": "/static/js/2.4cfca95d.chunk.js.map",
-    "static/js/3.3556d354.chunk.js": "/static/js/3.3556d354.chunk.js",
-    "static/js/3.3556d354.chunk.js.map": "/static/js/3.3556d354.chunk.js.map",
+    "main.css": "/static/css/main.6fdb685c.chunk.css",
+    "main.js": "/static/js/main.2bd14377.chunk.js",
+    "main.js.map": "/static/js/main.2bd14377.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.624aaf7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.624aaf7a.js.map",
+    "static/js/2.73b0fcab.chunk.js": "/static/js/2.73b0fcab.chunk.js",
+    "static/js/2.73b0fcab.chunk.js.map": "/static/js/2.73b0fcab.chunk.js.map",
+    "static/js/3.217981c0.chunk.js": "/static/js/3.217981c0.chunk.js",
+    "static/js/3.217981c0.chunk.js.map": "/static/js/3.217981c0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.44283a51.chunk.css.map": "/static/css/main.44283a51.chunk.css.map",
-    "static/js/2.4cfca95d.chunk.js.LICENSE.txt": "/static/js/2.4cfca95d.chunk.js.LICENSE.txt",
+    "static/css/main.6fdb685c.chunk.css.map": "/static/css/main.6fdb685c.chunk.css.map",
+    "static/js/2.73b0fcab.chunk.js.LICENSE.txt": "/static/js/2.73b0fcab.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/site-avatar.e5311a02.jpg",
     "static/media/Construction.31ef0450.PNG": "/static/media/Construction.31ef0450.PNG",
     "static/media/Fylo.0d62923f.PNG": "/static/media/Fylo.0d62923f.PNG",
@@ -40,7 +40,7 @@
     "static/media/jewelry.cfc4926e.jpg": "/static/media/jewelry.cfc4926e.jpg",
     "static/media/mercedes.d07a1e26.jpg": "/static/media/mercedes.d07a1e26.jpg",
     "static/media/nav1.fbe7e515.jpg": "/static/media/nav1.fbe7e515.jpg",
-    "static/media/plus.aac03a2c.svg": "/static/media/plus.aac03a2c.svg",
+    "static/media/plus.ae0f62bb.svg": "/static/media/plus.ae0f62bb.svg",
     "static/media/remodeling.6fb12ea1.jpg": "/static/media/remodeling.6fb12ea1.jpg",
     "static/media/remodeling.ccf378e1.jpg": "/static/media/remodeling.ccf378e1.jpg",
     "static/media/remodelingServices.b6813010.jpg": "/static/media/remodelingServices.b6813010.jpg",
@@ -50,9 +50,9 @@
     "static/media/testimonials.0cd0f196.jpg": "/static/media/testimonials.0cd0f196.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f981f39d.js",
-    "static/js/2.4cfca95d.chunk.js",
-    "static/css/main.44283a51.chunk.css",
-    "static/js/main.a2529238.chunk.js"
+    "static/js/runtime-main.624aaf7a.js",
+    "static/js/2.73b0fcab.chunk.js",
+    "static/css/main.6fdb685c.chunk.css",
+    "static/js/main.2bd14377.chunk.js"
   ]
 }

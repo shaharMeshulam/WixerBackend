@@ -289,3 +289,27 @@
 12.10.2021, 3:25:03 - INFO - Server is running on port: 3030 
 12.10.2021, 3:25:20 - DEBUG - auth.service - login with username: oriori (sid: S0ppwRVUmhHM3eLXO7zbONn0GHkGgPxW)
 12.10.2021, 3:25:45 - INFO - Server is running on port: 3030 
+12.10.2021, 3:34:07 - INFO - Server is running on port: 3030 
+12.10.2021, 3:34:43 - DEBUG - auth.service - login with username: user (sid: CKleGIX3xyE-Ukuo9KnB7PSnWsiChAf9)
+12.10.2021, 3:35:01 - DEBUG - auth.service - login with username: user (sid: CKleGIX3xyE-Ukuo9KnB7PSnWsiChAf9)
+12.10.2021, 8:49:54 - INFO - Server is running on port: 3030 
+12.10.2021, 9:03:51 - DEBUG - auth.service - login with username: demo (sid: P4bGQcZPXCy1H-EQICzqRxmdgpa8PVur)
+12.10.2021, 9:07:07 - INFO - Server is running on port: 3030 
+12.10.2021, 9:25:53 - INFO - Server is running on port: 3030 
+12.10.2021, 9:25:59 - DEBUG - auth.service - login with username: berco (sid: XgcThr-btS3hOGo8HK14yxjirMfJ2NUH)
+12.10.2021, 9:29:56 - ERROR - Failed to get wap | {} (sid: XgcThr-btS3hOGo8HK14yxjirMfJ2NUH)
+12.10.2021, 9:29:59 - ERROR - Failed to get wap | {} (sid: d3a7CMjaYfCD06atrzlbVJIRkc2Y6Vy1)
+12.10.2021, 9:55:50 - INFO - Server is running on port: 3030 
+12.10.2021, 9:55:57 - INFO - Server is running on port: 3030 
+12.10.2021, 10:14:14 - INFO - Server is running on port: 3030 
+12.10.2021, 10:14:24 - INFO - Server is running on port: 3030 
+12.10.2021, 10:21:35 - DEBUG - auth.service - login with username: berco (sid: iuu8Udv8yY3iRqzkg8KqA_7ebRmxUJed)
+12.10.2021, 10:21:40 - ERROR - Failed to get wap | {} (sid: iuu8Udv8yY3iRqzkg8KqA_7ebRmxUJed)
+12.10.2021, 10:21:43 - ERROR - Failed to get wap | {} (sid: qkiXInxfCe_zOUm-GmgCdhWgXpYI6ABr)
+12.10.2021, 10:36:22 - INFO - Server is running on port: 3030 
+12.10.2021, 10:47:55 - INFO - Server is running on port: 3030 
+12.10.2021, 10:54:41 - INFO - Server is running on port: 3030 
+12.10.2021, 11:01:11 - INFO - Server is running on port: 3030 
+12.10.2021, 11:05:49 - DEBUG - auth.service - login with username: berco (sid: 1gd1D_rSfGOdguH0_K0hG6k07HBoVt6r)
+12.10.2021, 11:13:41 - INFO - Server is running on port: 3030 
+12.10.2021, 11:13:55 - INFO - Server is running on port: 3030 
