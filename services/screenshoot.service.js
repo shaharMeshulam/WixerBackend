@@ -12,11 +12,11 @@ async function takeScreenShoot(wapName, wapId) {
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
     await page.setViewport({ width: 1600, height: 200 })
-    if (wapName) await page.goto(`http://localhost:3000/${wapName}`, { waitUntil: 'networkidle2' })
+    if (wapName) await page.goto(`https://wixer-app.herokuapp.com/${wapName}`, { waitUntil: 'networkidle2' })
     else {
-        await page.goto(`http://localhost:3000/preview/${wapId}`, { waitUntil: 'networkidle2' })
+        await page.goto(`https://wixer-app.herokuapp.com/preview/${wapId}`, { waitUntil: 'networkidle2' })
     }
-    await page.waitFor(1500);
+    await page.waitForTimeout(1500);
     const screenshot = await page.screenshot({ encoding: "base64" })
         .then(function (data) {
             const base64Encode = `data:image/png;base64,${data}`
@@ -24,7 +24,6 @@ async function takeScreenShoot(wapName, wapId) {
         })
     const photoUrl = await cloudinary.uploader.upload(screenshot,
         function (error, result) { return result.url })
-    console.log('photoUrl', photoUrl);
     await browser.close()
     return photoUrl
 }
