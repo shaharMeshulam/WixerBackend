@@ -49,6 +49,17 @@ async function updateWap(req, res) {
     }
 }
 
+// DELETE (Delete wap)
+async function deleteWap(req, res) {
+    try {
+        await wapService.remove(req.params.id)
+        res.send({ msg: 'Deleted successfully' })
+    } catch (err) {
+        logger.error('Failed to delete wap', err)
+        res.status(500).send({ err: 'Failed to delete wap' })
+    }
+}
+
 // POST (add lead)
 async function addLead(req, res) {
     try {
@@ -67,6 +78,7 @@ module.exports = {
     getWap,
     addWap,
     updateWap,
+    deleteWap,
     addLead,
     getWaps
 }

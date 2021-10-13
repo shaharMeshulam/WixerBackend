@@ -24,7 +24,6 @@ function connectSockets(http, session) {
             socket.myTopic = topic
         })
         socket.on('wap change', action => {
-            console.log('wap change', action)
             socket.to(socket.myTopic).emit('wap change', action);
         })
     })
